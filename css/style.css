@@ -52,6 +52,9 @@ textarea {
 
 /* Layout */
 .ba-container{
+	width: 1200px;
 	padding-left: 20px;
 	padding-right: 20px;
 }
+
+
